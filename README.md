@@ -2,7 +2,7 @@
 <h3 align="center">A fresh graduate student from Information Technology</h3>
 <img align="right" alt="coding" width="370" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-- 🤝 I’m looking for job to utilize my academic experience into practice
+- 🤝 I’m looking for full time or internship about frontend or backend to utilize my academic experience into practice
 
 - 📫 How to reach me | **oscartsanghoman@gmail.com**
 
