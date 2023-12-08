@@ -6,10 +6,10 @@
 
 - 📫 How to reach me | **oscartsanghoman@gmail.com**
 
-<h2 align="left">Linkedin Info:</h2>
+<h2 align="left">Linkedin Info</h2>
 <p align="left"><a href="https://www.linkedin.com/in/tsang-ho-man-355a7421b/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></p>
 
-<h2 align="left">Languages and Tools:</h2>
+<h2 align="left">Knowledge</h2>
 <p align="left"> 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
