@@ -9,7 +9,7 @@
 <h2 align="left" width="60%">Linkedin</h2>
 <p align="left"><a href="https://www.linkedin.com/in/tsang-ho-man-355a7421b/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></p>
 
-<hr align="left" width="60%">
+<h2 align="left" width="60%">Knowledge</h2>
 <p align="left"> 
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
