@@ -2,17 +2,16 @@
 <h3 align="center">A graduate student from Information Technology</h3>
 <img align="right" alt="coding" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-- 🤝 I’m looking for full time or internship about frontend or backend to utilize my academic experience into practice
+- 🤝 I'm looking for a full-time position in frontend or backend development to apply my academic experience in practice
 
 - 📫 How to reach me | **oscartsanghoman@gmail.com**
-<hr>
-<h3 align="left" width="60%">Linkedin</h3>
 
+<h3 align="left" width="60%">Further Personal Info</h3>
+<hr>
 <p align="left"><a href="https://www.linkedin.com/in/tsang-ho-man-355a7421b/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></p>
 
-<hr>
 <h3 align="left" width="60%">Knowledge</h3>
-
+<hr>
 <p align="left"> 
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
