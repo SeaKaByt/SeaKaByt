@@ -6,7 +6,7 @@
 
 - 📫 How to reach me | **oscartsanghoman@gmail.com**
 
-<hr align="left" width="60%">
+<h2 align="left" width="60%">Linkedin</h2>
 <p align="left"><a href="https://www.linkedin.com/in/tsang-ho-man-355a7421b/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></p>
 
 <hr align="left" width="60%">
