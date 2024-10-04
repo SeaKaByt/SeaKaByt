@@ -8,7 +8,7 @@
 
 <h3 align="left" width="60%">Further Personal Info</h3>
 <hr>
-<p align="left"><a href="https://www.linkedin.com/in/tsang-ho-man-355a7421b/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></p>
+<p align="left"><a href="https://www.linkedin.com/in/oscar-tsang-355a7421b/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></p>
 
 <h3 align="left" width="60%">Knowledge</h3>
 <hr>
